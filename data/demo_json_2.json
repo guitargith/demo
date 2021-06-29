@@ -1,5 +1,7 @@
 {
   "Name":"Personal Database",
   "Type":"Datapoint",
-  "Creator":53423553
+  "Creator":53423553,
+  "Tags":"personal, data, age, martial status, status, income data",
+  "Schema": {"Name": "string", "Surname": "string", "Age":"int", "Income": "float","Comments": "string"}
 }
