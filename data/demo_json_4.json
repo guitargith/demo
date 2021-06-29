@@ -1,5 +1,7 @@
 {
   "Name":"Personal Database",
   "Type":"Datapoint",
-  "Creator":4534534
+  "Creator":4534534,
+  "Tags":"personal, data, age, financial data",
+  "Schema": {"Name": "string", "Surname": "string", "Age":"int", "Income": "float","Comments": "string"}
 }
