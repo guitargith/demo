@@ -1,6 +1,7 @@
 {
   "Name":"Personal Database",
-  "Type":"Datapoint",
+  "Type":"Table",
+  "Format":"csv",
   "Creator":4534534,
   "Tags":"personal, data, age, financial data",
   "Schema": {"Name": "string", "Surname": "string", "Age":"int", "Income": "float","Comments": "string"}
