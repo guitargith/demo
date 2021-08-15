@@ -1,0 +1,9 @@
+{
+  "Name":"Winter Landscape",
+  "Type":"Image",
+  "Format":"jpg",
+  "Creator":65454334,
+  "Tags":"grass, landscape, wide, mountain, snow, road",
+  "Width": 1280,
+  "Height": 800
+}

@@ -1,0 +1,9 @@
+{
+  "Name":"Desert Storm",
+  "Type":"Image",
+  "Format":"jpg",
+  "Creator":65454334,
+  "Tags":"storm, desert, rock, lighting",
+  "Width": 1280,
+  "Height": 800
+}

@@ -1,0 +1,9 @@
+{
+  "Name":"Cliff",
+  "Type":"Image",
+  "Format":"jpg",
+  "Creator":65454334,
+  "Tags":"mist, cliff, tree, shore, sea",
+  "Width": 1280,
+  "Height": 800
+}

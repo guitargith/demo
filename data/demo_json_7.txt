@@ -1,0 +1,9 @@
+{
+  "Name":"Winter Forest",
+  "Type":"Image",
+  "Format":"jpg",
+  "Creator":65454334,
+  "Tags":"snow, trees, forest",
+  "Width": 1280,
+  "Height": 800
+}
