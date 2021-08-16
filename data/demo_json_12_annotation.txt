@@ -1,0 +1,13 @@
+"annotations": [
+    {
+        "segmentation": [[204.01,306.23,206.53,307.95]],
+        "num_keypoints": 15,
+        "area": 5463.6864,
+        "iscrowd": 0,
+        "keypoints": [229,256,2,223,369,2],
+        "image_id": 289343,
+        "bbox": [204.01,235.08,60.84,177.36],
+        "category_id": 1,
+        "id": 201376
+    }
+]

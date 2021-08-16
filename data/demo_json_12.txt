@@ -1,0 +1,8 @@
+{
+  "Name":"Annotation",
+  "Type":"Annotation",
+  "Creator":5345345,
+  "Tags":"annotation, labeling",
+  "Number of Annotated Items": 2,
+  "Annotated image path": "https://github.com/guitargith/demo/raw/main/data/sample_image_11.jpg"
+}
