@@ -1,4 +1,4 @@
-"annotations": [
+{"annotations": [
     {
         "segmentation": [[204.01,306.23,206.53,307.95]],
         "num_keypoints": 15,
@@ -10,4 +10,4 @@
         "category_id": 1,
         "id": 201376
     }
-]
+]}
