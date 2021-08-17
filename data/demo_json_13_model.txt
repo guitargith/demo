@@ -1,0 +1,18 @@
+{
+  "Name":"Landscape Image Model",
+  "Type":"Model",
+  "Creator":5354355345345,
+  "Tags":"supervised, landscape, convolutional, cnn",
+  "Training Parameters": {"Number of epochs": 8, "Early stopping": None},
+  "Model Artifacts": {
+      "Frozen training dataset path": "https://github.com/guitargith/demo/model/train/training.tfrecords",
+      "Frozen validation dataset path": "https://github.com/guitargith/demo/model/valid/validation.tfrecords",
+      "Frozen dataset type": "tfrecord",
+      "Training code path": "https://github.com/guitargith/demo/model/train.py",
+      "Saved model path": "https://github.com/guitargith/demo/model/",
+      "Frozen graph path": "https://github.com/guitargith/demo/model/frozen_model.pb",
+      "Model package": "https://github.com/guitargith/demo/model/model.tar.gz",
+      "Weights path": "https://github.com/guitargith/demo/model/weights.h5",
+      "Validation output path": "https://github.com/guitargith/demo/model/validation.json"
+}
+}
