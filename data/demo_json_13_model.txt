@@ -7,8 +7,11 @@
   "Model Artifacts": {
       "Frozen training dataset path": "https://github.com/guitargith/demo/model/train/training.tfrecords",
       "Frozen validation dataset path": "https://github.com/guitargith/demo/model/valid/validation.tfrecords",
+      "Frozen training dataset hash": "0xg4rga4eg43g43wgs4eg",
+      "Frozen validation dataset hash": "0xg4egea4g43g34t43hg34",      
       "Frozen dataset type": "tfrecord",
       "Training code path": "https://github.com/guitargith/demo/model/train.py",
+      "Training code hash": "0xjf438j40gi320f3g",      
       "Saved model path": "https://github.com/guitargith/demo/model/",
       "Frozen graph path": "https://github.com/guitargith/demo/model/frozen_model.pb",
       "Model package": "https://github.com/guitargith/demo/model/model.tar.gz",
