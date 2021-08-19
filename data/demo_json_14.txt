@@ -1,0 +1,9 @@
+{
+  "Name":"Cat",
+  "Type":"Image",
+  "Format":"jpg",
+  "Creator":654544334,
+  "Tags":"cat, rock",
+  "Width": 1280,
+  "Height": 800
+}
