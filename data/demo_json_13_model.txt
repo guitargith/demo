@@ -3,7 +3,7 @@
   "Type":"Model",
   "Creator":5354355345345,
   "Tags":"supervised, landscape, convolutional, cnn",
-  "Training Parameters": {"Number of epochs": 8, "Early stopping": None},
+  "Training Parameters": {"Number of epochs": 10, "Batch size": 32, "Early stopping": None},
   "Model Artifacts": {
       "Frozen training dataset path": "https://github.com/guitargith/demo/model/train/training.tfrecords",
       "Frozen validation dataset path": "https://github.com/guitargith/demo/model/valid/validation.tfrecords",
@@ -11,7 +11,8 @@
       "Frozen validation dataset hash": "0xg4egea4g43g34t43hg34",      
       "Frozen dataset type": "tfrecord",
       "Training code path": "https://github.com/guitargith/demo/model/train.py",
-      "Training code hash": "0xjf438j40gi320f3g",      
+      "Training code hash": "0xjf438j40gi320f3g",
+      "Config path": "https://github.com/guitargith/demo/model/config.json",	
       "Saved model path": "https://github.com/guitargith/demo/model/",
       "Frozen graph path": "https://github.com/guitargith/demo/model/frozen_model.pb",
       "Model package": "https://github.com/guitargith/demo/model/model.tar.gz",
