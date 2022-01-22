@@ -4,5 +4,5 @@
   "Creator":65454477,
   "Model":351843720888517,
   "Tags":"image, landscape, performance, metric",
-  "Content": {"Loss":0.23, "ValidationLoss":0.33,"Epochs":10,"Accuracy":0.85,"F1":0.79,"Precision":0.87,"Recall": 0.75,"mAP":0.81}
+  "Content": {"Loss":0.23, "ValidationLoss":0.33,"Epochs":10,"Accuracy":0.81,"F1":0.75,"Precision":0.84,"Recall": 0.72,"mAP":0.81}
 }
