@@ -5,5 +5,6 @@
   "Creator":65454334,
   "Tags":"lake, mountain, snow, forest, trees, azure",
   "Width": 1280,
-  "Height": 800
+  "Height": 800,
+  "Color Chromatic Average": 111.33
 }
