@@ -1,0 +1,8 @@
+{
+  "Name":"Datapoint metric",
+  "Type":"Metric",
+  "Creator":65454477,
+  "Model":351843720888517,
+  "Tags":"image, landscape, performance, metric",
+  "Content": {"Loss":1.83, "ValidationLoss":0.81,"Epochs":10,"Accuracy":0.49,"F1":0.43,"Precision":0.42,"Recall": 0.31,"mAP":0.39}
+}
